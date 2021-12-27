@@ -1,0 +1,122 @@
+
+
+.app-head-title {
+    color: #CBE2E2;
+    padding: 5px;
+    margin-left: 125px;
+    font-size: 40px;
+    margin-top: 5px;
+}
+
+.text-properties {
+    text-align: center;
+    color: #CBE2E2;
+    font-family: Arial;
+    padding: 5px;
+    font-size: 40px;
+}
+
+.label-dropdown {
+    margin-left: 140px;
+    font-family: Arial;
+    font-size: 20px;
+    align-self: center;
+}
+
+.dropdown-model {
+    color: darkblue;
+    margin-left: 20px;
+    width: 420px;
+    background-color: #1F5869;
+}
+
+.VirtualizedSelectOption {
+    background-color: #1F5869;
+    font-size: 20px;
+    font-family: Arial;
+    color: #75C9BE;
+ }
+
+.VirtualizedSelectFocusedOption {
+    background-color: #1F5869;
+    opacity: .7;
+}
+
+.Select-control {
+    background-color: #75C9BE;
+}
+
+.Select-value-label {
+    font-family: Arial;
+    color: #153F4C !important;
+    font-size: 20px;
+}
+
+.slider-label {
+    margin-top: 5px;
+    margin-left: 100px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.pagination-style {
+    margin-left: 20px;
+
+}
+
+.model-analyst {
+    width: 480px;
+    height: 380px;
+    background-color: #153F4C;
+    margin-left: 40px;
+    font-family: Arial;
+}
+
+.metric-style {
+    color: #1F5869;
+    font-size: 125px;
+    text-align: center;
+    font-family: Arial;
+    margin-top: -15px;
+}
+
+.metric-col-style {
+    height: 150px;
+    background-color: #75C9BE;
+    margin-left: 40px;
+    margin-top: 100px;
+    font-family: Arial;
+}
+
+.metric-value-style {
+    color: #CBE2E2;
+    font-size: 80px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.metric-value-col-style {
+    height: 150px;
+    background-color: #153F4C;
+    margin-top: 100px;
+    font-family: Arial;
+}
+
+.metric-correlation-style {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.metric-sred-style {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+.date_picker_style {
+    margin-left: 10000px;
+}
